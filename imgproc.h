@@ -1,7 +1,7 @@
 #ifndef _IMGPROC_H
 #define _IMGPROC_H
 #include <iostream>
-#include <cstring>
+#include <string>
 #include <fstream>
 #define WIDTH 644
 #define HEIGHT 410
